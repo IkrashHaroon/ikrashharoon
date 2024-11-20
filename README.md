@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="700" alt="banner" align="center">
+<img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" alt="banner" align="center">
 <h1 align="center">Assalam u Alaikum 👋, I'm Ikrash Haroon</h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
 <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="400" alt="Article cover image">
@@ -16,7 +16,7 @@
 - 📫 How to reach me: **ikrashharoon1236@gmail.com**
 
 - 📄 Know about my experiences: 
-  <a href="https://drive.google.com/drive/my-drive" target="_blank">View Resume</a>
+  <a href="https://www.dropbox.com/scl/fi/gj2nn1098oanj477554a5/muhammadikrashharoon-CV.pdf?rlkey=5pcp85f78nuswha9t8h3rr19u&st=qu1g6hg0&dl=0" target="_blank">View Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
