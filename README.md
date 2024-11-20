@@ -1,10 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="700" alt="banner" align="center">
 <h1 align="center">Assalam u Alaikum 👋, I'm Ikrash Haroon</h1>
 <h3 align="center">A passionate frontend & backend developer from Pakistan</h3>
-<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" alt="Coding animation">
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="400" alt="Article cover image">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ikrashharoon&label=Profile%20views&color=0e75b6&style=flat" alt="ikrashharoon" /> 
+  <img src="https://komarev.com/ghpvc/?username=ikrashharoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 - 🔭 I’m currently working on **Life Bridge**
@@ -15,17 +15,18 @@
 
 - 📫 How to reach me: **ikrashharoon1236@gmail.com**
 
-- 📄 Know about my experiences: [View Resume](file:///C:/Users/GOODLUCK.DESKTOP-RF7GAER/Documents/muhammadikrashharoon%20CV.pdf)
+- 📄 Know about my experiences: 
+  <a href="https://drive.google.com/drive/my-drive" target="_blank">View Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ikrashharoon/" target="blank">
+  <a href="https://www.linkedin.com/in/ikrashharoon/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61552023565629" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=61552023565629" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/ikrash_haroon/" target="blank">
+  <a href="https://www.instagram.com/ikrash_haroon/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -54,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
+    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="40" height="40"/> 
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/> 
