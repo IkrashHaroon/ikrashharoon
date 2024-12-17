@@ -87,4 +87,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikrashharoon&show_icons=true&locale=en&theme=radical" alt="ikrashharoon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikrashharoon&theme=radical" alt="ikrashharoon" /></p>
