@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Life Bridge**
 
-- 🌱 I’m currently learning **PHP, MySQL, Laravel, SQL Server, C#**
+- 🌱 I’m currently learning **PHP, MySQL, Laravel, SQL Server, Pyhton**
 
 - 💬 Ask me about **Frontend & Backend Development**
 
