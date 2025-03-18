@@ -1,4 +1,10 @@
-<img src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="banner" align="center" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 255, 255, 0.2);height: 650px;width: 750px;">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  alt="programming gif" 
+  style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(255, 255, 255, 0.2); height: 500px; width: 550px;">
+</p>
+
+
 <h1 align="center" style="color: #ffffff; text-shadow: 0 0 8px #e3204a, 0 0 15px #091021;">Assalam u Alaikum 👋, I'm Ikrash Haroon</h1>
 <h3 align="center" style="color: #e3204a; text-shadow: 0 0 6px #ffffff;">A passionate Frontend & Backend Developer from Pakistan</h3>
 
@@ -78,6 +84,9 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
   </a>
 </p>
 
