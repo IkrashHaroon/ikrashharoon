@@ -40,11 +40,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft Office" width="40" height="40"/>   
-</a>  
+<h3 align="Left">Languages and Tools:</h3>
+<p align="Center">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
   </a> 
