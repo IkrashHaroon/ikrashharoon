@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Life Bridge**
 
-- 🌱 I’m currently learning **PHP, MySQL, Laravel, SQL Server, Pyhton, C#**
+- 🌱 I’m currently learning **PHP, MySQL, Laravel, WordPress, Pyhton, GSAP**
 
 - 💬 Ask me about **Frontend & Backend Development**
 
@@ -42,6 +42,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="Microsoft Office" width="40" height="40"/>   
+</a>  
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
   </a> 
@@ -88,6 +91,9 @@
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>   
+</a>  
 </p>
 
 <p>
