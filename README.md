@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=ikrashharoon&label=Profile%20views&color=000000&style=flat" alt="Profile views" />   
 </p>  
 
-- 🔭 I’m currently working on **Life Bridge**  
+- 🔭 I’m currently working on **Beyond Pixels**  
 - 🌱 I’m currently learning **PHP, MySQL, Laravel, WordPress, Python, GSAP**  
 - 💬 Ask me about **Frontend & Backend Development**  
 - 📫 How to reach me: **ikrashharoon1236@gmail.com**  
@@ -35,7 +35,7 @@
   </a>  
 </p>  
 
-<h3 align="left" style="color: #000000;">Languages and Tools:</h3>  
+<h3 align="left" style="color: #000000;">Languages and Tools :</h3>  
 <p align="center">  
   <a href="https://angular.io" target="_blank" rel="noreferrer">   
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>   
