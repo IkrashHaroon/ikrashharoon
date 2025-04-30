@@ -27,12 +27,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>  
   </a>  
   <a href="https://www.facebook.com/profile.php?id=61552023565629" target="_blank">  
-    <img src="https://img.icons8.com/ios-filled/30/000000/facebook--v1.png" alt="Facebook" />  
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/facebook--v1.png" alt="Facebook" />  
   </a>  
   <a href="https://www.instagram.com/ikrash_haroon/" target="_blank">  
-    <img src="https://img.icons8.com/ios-filled/30/000000/instagram-new.png" alt="Instagram" />  
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/instagram-new.png" alt="Instagram" />  
   </a>  
-</p>  
+</p>
 
 ---
 
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" width="40" height="40"/> <!-- dark friendly -->  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>  
@@ -54,8 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>  
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" width="40" height="40"/> <!-- plain for white -->
+</p>
+
 
 ---
 
