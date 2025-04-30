@@ -38,9 +38,8 @@
 <h3 align="left" style="color: #000000;">Languages and Tools :</h3>  
 <p align="center">  
 <a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://dart.dev/assets/shared/dart/logo+text/horizontal/blue.svg" alt="Dart" width="100" height="40"/>
+  <img src="https://dart.dev/assets/shared/dart/logo/icon/64.png" alt="Dart" width="40" height="40"/>
 </a>
-
   <a href="https://angular.io" target="_blank" rel="noreferrer">   
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>   
   </a>   
