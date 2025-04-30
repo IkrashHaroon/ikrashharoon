@@ -5,10 +5,10 @@
 </p>  
 
 <h1 align="center" style="color: #000000;">Assalam u Alaikum 👋, I'm Ikrash Haroon</h1>  
-<h3 align="center" style="color: #000000;">A passionate Frontend & Backend Developer from Pakistan</h3>  
+<h3 align="center" style="color: #000000;">A passionate Full Stack Developer from Pakistan</h3>  
 
 <div align="center">  
-  <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="400" alt="Article cover image" style="border: 2px solid #000000; border-radius: 10px;">  
+  <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" width="400" alt="Article cover image" style="border: 2px solid #000; border-radius: 11px;">  
 </div>  
 
 <p align="left">   
@@ -37,6 +37,9 @@
 
 <h3 align="left" style="color: #000000;">Languages and Tools :</h3>  
 <p align="center">  
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">  
+  <img src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white.svg" alt="Dart" width="40" height="40"/>  
+</a>  
   <a href="https://angular.io" target="_blank" rel="noreferrer">   
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>   
   </a>   
