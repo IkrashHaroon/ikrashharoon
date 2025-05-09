@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Intern at a Software House (Web Development)
+- 💼 Intern at a Software House (App Development)
 - 🧠 Currently learning  Dart, Flutter, React & Python
 - ⚡ Fun fact: I love clean UI and premium animations!
 
