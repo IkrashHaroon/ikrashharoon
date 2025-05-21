@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="Programming GIF" width="500" height="600" style="border-radius: 12px;" />
 </p>
 
-<h1 align="center">Assalam u Alaikum 👋, I'm M. Ikrash Haroon</h1>
+<h1 align="center">Assalam u Alaikum 👋, I'm M. Ikrash Ibn Haroon</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan 🇵🇰</h3>
 
 ---
@@ -79,4 +79,4 @@
 
 ---
 
-### 🖥️ Designed with ❤️ by [M. Ikrash Haroon](https://github.com/ikrashharoon)
+### 🖥️ Designed with ❤️ by [M. Ikrash Ibn Haroon](https://github.com/ikrashharoon)
