@@ -79,4 +79,4 @@
 
 ---
 
-> ```### 🖥️ Designed with ❤️ by [M. Ikrash Ibn Haroon](https://github.com/ikrashharoon)```
+### 🖥️ Designed with ❤️ by [M. Ikrash Ibn Haroon](https://github.com/ikrashharoon)
