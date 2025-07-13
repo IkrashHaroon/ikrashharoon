@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=dart" />
   <img src="https://skillicons.dev/icons?i=flutter" />
   <img src="https://skillicons.dev/icons?i=react" />
- <img src="https://skillicons.dev/icons?i=gsap" style="filter: brightness(80%);" width="50" />
+ <img src="https://skillicons.dev/icons?i=gsap" style="filter: brightness(85%);" width="52" />
 </p>
 
 ---
