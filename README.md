@@ -1,93 +1,62 @@
-<!-- ULTRA PREMIUM README — Showstopper Edition -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikrashharoon/ikrashharoon/main/placeholder-top.gif" alt="Top Banner" width="100%" style="border-radius:12px;box-shadow:0 8px 40px rgba(0,0,0,0.6);" />
-</p>
+<!-- ⚡ ULTRA PREMIUM GITHUB README | Crafted by M. Ikrash Ibn Haroon -->
 
-<p align="center">
-  <!-- Custom animated background GIF (neon particles + electric waves) -->
-  <img src="https://raw.githubusercontent.com/ikrashharoon/ikrashharoon/main/custom_neon_bg.gif" alt="Neon Background" width="100%" style="border-radius:10px; box-shadow: 0 10px 40px rgba(0,0,0,0.6);" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=700&color=00E0FF&center=true&vCenter=true&width=760&lines=Assalam+u+Alaikum+👋;I'm+M.+Ikrash+Ibn+Haroon;Full+Stack+Developer+%7C+Flutter+%7C+React" alt="Typing Animation" />
-</h1>
+<img src="https://github.com/IkrashHaroon/ikrashharoon/blob/main/custom_neon_bg.gif" width="100%" alt="Neon Banner"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Code.+Design.+Create.;Turning+Ideas+into+Polished+Products.;Premium+UI%2FUX+%7C+Animated+Designs" />
-</p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=FF3CAC&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+World+💻✨;I'm+M.+Ikrash+Ibn+Haroon;Creative+Software+Engineer+⚡;Crafting+Modern+Web+Experiences)](https://git.io/typing-svg)
 
 ---
 
-## 🔭 About Me
-- 💼 Intern — App Development at a Software House  
-- 🌱 Currently mastering **Flutter, React, Dart & Python**  
-- 🎨 Passionate about premium animated UI/UX and polished front-ends  
-- ⚡ Motto: _Consistency, Code & Creativity — That's the Grind._
+### 💫 About Me  
+🎯 Passionate about crafting modern web experiences with **HTML5, CSS3, Bootstrap 5, JavaScript & ReactJS**  
+🧠 Constantly learning, experimenting, and innovating  
+🚀 Fueled by **technology, design, and clean UI/UX aesthetics**
 
 ---
 
-## 🚀 Tech Stack (neon)
+### 🧩 Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,mysql,python,dart,flutter,react,tailwind,bootstrap,git,github,figma,photoshop,gsap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,firebase,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ GitHub Stats  
+<div align="center">
+  
+![Ikrash's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkrashHaroon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3CAC&icon_color=00FFFF&text_color=FFFFFF)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrashHaroon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3CAC&text_color=FFFFFF)
+
+</div>
+
+---
+
+### 🏆 Achievements  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikrashharoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E0FF&icon_color=FF007F" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrashharoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E0FF" width="300" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IkrashHaroon&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🔥 Contributions & Streaks
+### 🌀 Contribution Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ikrashharoon&theme=tokyonight&hide_border=true&background=0D1117&ring=00E0FF&fire=FF007F" width="520" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkrashHaroon&theme=radical&hide_border=true&background=0D1117&ring=FF3CAC&fire=FF3CAC&currStreakLabel=00FFFF"/>
 </p>
 
 ---
 
-## 🏆 Trophies
+### ⚙️ Tech Vibes Animation  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikrashharoon&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3CAC&height=100&section=footer"/>
 </p>
 
 ---
 
-## 🌐 Connect
-<p align="center">
-  <a href="https://www.instagram.com/ikrashbinharoon/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ikrashharoon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61552023565629" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+#### 💖 Made with passion & precision by  
+<h3 align="center">⚡ M. Ikrash Ibn Haroon ⚡</h3>
+<p align="center"><i>“Innovation meets Aesthetic”</i></p>
 
----
-
-## 👁️ Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikrashharoon&label=Profile+Views&color=00E0FF&style=flat-square" />
-</p>
-
----
-
-> 🧠 _"Consistency, Code & Creativity — that's the grind."_
-
----
-
-### ⚙️ Notes & Quick Setup
-1. Replace the `custom_neon_bg.gif` image src with the actual hosted URL of the GIF (GitHub repo raw URL or your CDN).  
-   Example raw link format after you upload the GIF to your repository:
-   `https://raw.githubusercontent.com/<your-username>/<repo-name>/main/custom_neon_bg.gif`
-
-2. If you want the GIF embedded with a centered fixed height, use:
-   ```html
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/<your-username>/<repo>/main/custom_neon_bg.gif" width="100%" style="max-height:320px; object-fit:cover; border-radius:10px;" />
-   </p>
+</div>
