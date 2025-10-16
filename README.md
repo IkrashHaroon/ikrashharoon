@@ -30,12 +30,20 @@
 
 ### ⚡ GitHub Stats
 <div align="center">
-  
-![Ikrash's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkrashHaroon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3CAC&icon_color=00FFFF&text_color=FFFFFF)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkrashHaroon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3CAC&text_color=FFFFFF)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=IkrashHaroon&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&title_color=00FFFF&icon_color=FF3CAC&text_color=FFFFFF" height="160" alt="GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkrashHaroon&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" height="160" alt="Top Languages"/>
 
 </div>
+
+
 
 ---
 
