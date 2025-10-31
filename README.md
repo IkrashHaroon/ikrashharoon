@@ -68,3 +68,10 @@
 <p align="center"><i>“Innovation meets Aesthetic”</i></p>
 
 </div>
+<div align="center">
+
+  <h2>⚡ My GitHub Contribution Graph</h2>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkrashHaroon&bg_color=0D1117&color=FFD700&line=FF8C00&point=FFA500&area=true&hide_border=true" width="95%" alt="Ikrash Haroon Contribution Graph" />
+
+</div>
