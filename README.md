@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>👋 Welcome to My World 💻✨</h1>
-<h3>I’m <strong>M. Ikrash Ibn Haroon</strong></h3>
+<h3>I’m <strong>M. Ikrash Haroon</strong></h3>
 
 <!-- Animated Professional Roles (only these lines animate) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Creative+Software+Engineer;Full+Stack+Developer;Mobile+%26+Web+Developer;UI%2FUX+Enthusiast)](https://git.io/typing-svg)
@@ -64,7 +64,7 @@
 
 
 #### 💖 Made with Passion & Precision by  
-<h3 align="center">⚡ M. Ikrash Ibn Haroon ⚡</h3>
+<h3 align="center">⚡ M. Ikrash Haroon ⚡</h3>
 <p align="center"><i>“Innovation meets Aesthetic”</i></p>
 
 </div>
