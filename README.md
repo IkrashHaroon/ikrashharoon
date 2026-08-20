@@ -12,10 +12,6 @@
 <img src="https://komarev.com/ghpvc/?username=IkrashHaroon&label=Profile+Views&style=for-the-badge&color=1A1B3A&labelColor=0A0E27" alt="profile views"/>
 <img src="https://img.shields.io/badge/Status-Open_to_Work-1A1B3A?style=for-the-badge&labelColor=0A0E27&color=1A1B3A&logo=target&logoColor=A78BFA" alt="status"/>
 
-<br/><br/>
-
-<sub>◈&nbsp;&nbsp;&nbsp;<b style="color:#22D3EE">CYAN</b>&nbsp;&nbsp;&nbsp;◈&nbsp;&nbsp;&nbsp;<b style="color:#A78BFA">VIOLET</b>&nbsp;&nbsp;&nbsp;◈</sub>
-
 </div>
 
 <br/>
@@ -180,8 +176,24 @@ Currently deepening my work in systems design, data engineering workflows, and i
 
 </div>
 
+<br/>
+
+<div align="center">
+
+### 🐍&nbsp; Contribution Snake
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IkrashHaroon/IkrashHaroon/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IkrashHaroon/IkrashHaroon/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IkrashHaroon/IkrashHaroon/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
 <blockquote>
-<sub>⚠️ These are live widgets rendered by third-party services (GitHub Readme Stats, Streak Stats, Profile Trophy) — GitHub proxies and caches them, so they load correctly on your actual GitHub profile page even if a preview here looks blank or slow. See the validation notes below if any card doesn't load once pushed.</sub>
+<sub>⚠️ The snake above only appears after you add the workflow file provided separately (<code>snake.yml</code>) to this exact repo — see the validation notes below for the one-time setup. The GitHub Stats / Streak / Trophy cards are live third-party widgets; they render correctly on your actual profile page once pushed, even if a plain markdown preview shows them blank.</sub>
 </blockquote>
 
 <br/>
